@@ -1,0 +1,6 @@
+syncronous -> Jo on the spot available ho jate hai, top to bottom sync me chalte hai.
+
+Asyncronous -> Jo promise return karte hai because unke result ko aane me time lag sakta hai.
+await are only valid in Asyncronous functions.
+
+await -> await are wait until result receive,execution are stoped
