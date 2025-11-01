@@ -1,9 +1,15 @@
+import Chai from "./chai"
+
 
 function App() {
 
+  const username = "Chai aur code";
 
   return (
-    <h1>Chai Aur Vite | Alok Maurya</h1>
+    <>
+    <Chai/>
+    <h2>Hello Alok Welcome {username}</h2>    {/* We can writte only evaluated(final) expression */}
+    </>
   )
 }
 
